@@ -11,20 +11,12 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
-      section: services
-    - title: "Portfolio"
+    - title: "감성 가수"
       section: portfolio
-    - title: "About"
-      section: about
-    - title: "Timeline"
+    - title: "가수별 노래 리스트"
       section: timeline
-    - title: "Team"
+    - title: "노래 듣기"
       section: team
-    - title: "Contact"
-      section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
